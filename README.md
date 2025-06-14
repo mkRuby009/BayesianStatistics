@@ -5,7 +5,7 @@ This is a small Python project that includes practice for below Bayesian inferen
 
 Refer to this [guide](https://statswithr.github.io/book/) for Bayesian statistics explained simply and effectively.
 ## Dataset 
-Sunspot dataset for one-step ahead prediction problem: https://www.swpc.noaa.gov/products/solar-cycle-progression 
+Sunspot dataset for prediction problem: https://www.swpc.noaa.gov/products/solar-cycle-progression 
 
 # Required python packages
 
